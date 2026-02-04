@@ -5,7 +5,7 @@ import 'package:instagram/Screens/Home/homescreen.dart';
 import 'package:instagram/Screens/Post/postscreen.dart';
 import 'package:instagram/Screens/Profile/profilescreen.dart';
 import 'package:instagram/Screens/Search/searchscreen.dart';
-import 'package:instagram/Widgets/uihelper.dart';
+
 
 class BottomNavScreen extends StatefulWidget{
   @override
