@@ -53,7 +53,7 @@ var arrContent = [
             SizedBox(width: 10,),
             Container(
               height: 36,
-              width: 340,
+              width: 310,
               decoration: BoxDecoration(
                 borderRadius: BorderRadius.circular(10),
                 color: Color(0XFF262626)
@@ -138,7 +138,7 @@ var arrContent = [
           SizedBox(width: 5,),
           Container(
             height: 32,
-            width: 53,
+            width: 48,
             decoration: BoxDecoration(
                 border: Border.all(color: Colors.white24),
                 borderRadius: BorderRadius.circular(3)
